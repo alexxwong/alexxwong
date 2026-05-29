@@ -46,8 +46,7 @@ I am a Software Engineering university student passionate about building highly 
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexxwong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505v=1" alt="Alex's GitHub Stats" />
-  <br>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexxwong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505" alt="Alex's GitHub Stats" />  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexxwong&theme=tokyonight&hide_border=true&background=050505" alt="Alex's GitHub Streak" />
 </div>
 
