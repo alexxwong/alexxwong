@@ -53,6 +53,20 @@ I am a Software Engineering university student passionate about building highly 
 
 ---
 
+
+### Private Repositories
+
+Here are a few of my major projects. The source code is closed, but I am happy to provide access or do a code walkthrough for recruiters.
+
+- **Campus Marketplace Cross-platform App** (Flutter & Firebase)
+  *A campus marketplace app for mobile and web.*
+  >  [Request Source Code Access](mailto:alexwongwyf@gmail.com?subject=Code%20Access%20Request:%20PHP%20Database&body=Hi%20Alex,%20I%20would%20like%20to%20request%20access%20to%20view%20the%20source%20code%20for%20your%20PHP%20Database%20project.)
+
+- **Conference Management System** (Springboot & Angular)
+  *A comprehensive conference management web application.*
+  >  [Request Source Code Access](mailto:alexwongwyf@gmail.com?subject=Code%20Access%20Request:%20Flutter%20App&body=Hi%20Alex,%20I%20would%20like%20to%20request%20access%20to%20view%20the%20source%20code%20for%20your%20Flutter%20project.)
+
+
 ### Let's Connect!
 
 <div align="center">
