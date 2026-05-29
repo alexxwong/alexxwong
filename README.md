@@ -29,7 +29,7 @@ I am a Software Engineering university student passionate about building highly 
   
   **Backend & Database** <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=firebase,php,mysql,nodejs" />
   </a>
   
   <br><br>
