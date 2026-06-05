@@ -24,21 +24,21 @@ I am a Software Engineering university student passionate about building highly 
 
 <div align="center">
   
-  **Frontend & Mobile** <br>
+  **Frontend & Mobile** <br> <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,flutter,dart,js,html,css,tailwind,vite" />
   </a>
   
   <br><br>
   
-  **Backend & Database** <br>
+  **Backend & Database** <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,php,mysql,nodejs" />
   </a>
   
   <br><br>
   
-  **Tools & Environment** <br>
+  **Tools & Environment** <br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,jenkins,postman" />
   </a>
