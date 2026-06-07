@@ -86,6 +86,4 @@ Here are a few of my major projects. The source code is closed, but I am happy t
 
 <br>
 
-<div align="center">
-  <i>"Writing clean code and calculating the perfect shadow."</i>
-</div>
+
