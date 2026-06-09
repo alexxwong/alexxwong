@@ -10,7 +10,7 @@ I am a Software Engineering university student passionate about building highly 
 
 -  **Currently studying:** Software Development Life Cycle (SDLC) architectures, Web Engineering, and component-based development.
 -  **Currently focusing on:** Cross-platform UIs with Flutter and React, connected to procedural PHP/MySQL databases.
--  **Latest Project:** <div align="center">
+-  **Latest Project:** <div style = "display: flex; justify-content: center; align-items: center;">
   <a href="https://alexxwong.github.io/portfolio/">
     <img src="assets/gif.gif" alt="Click here to view my portfolio!" />
   </a>
